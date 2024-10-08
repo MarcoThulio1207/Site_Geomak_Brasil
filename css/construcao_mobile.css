@@ -1,0 +1,41 @@
+@media screen and (max-width: 900px) {
+    /* Ensure details container is responsive */
+    .details_container {
+        width: 100%; /* Full width */
+        max-width: 600px; /* Limit max width for larger screens */
+        margin-bottom: 260px; /* Center align */
+        padding: 50px; /* Add padding for better spacing */
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Optional shadow for depth */
+        background-color: rgba(255, 255, 255, 0.9); /* Slight background for readability */
+        border-radius: 8px; /* Rounded corners */
+        height: 48%;
+        
+    }
+
+    /* Adjust text size for better readability */
+    .hero_site .txt_hero p {
+        font-size: 16px; /* Smaller font size for mobile */
+        line-height: 1.5; /* Improved line height */
+    }
+    .hero_site .txt_hero h1 {
+        font-size: 45px;
+        justify-content: center;
+        margin: 0;
+        padding: 100px;
+        
+    }
+
+ 
+    .image-item {
+        margin-bottom: 20px; /* Space between items */
+        width: 100%; /* Limit width to prevent overflow */
+        text-align: center; /* Center align text under images */
+    }
+
+    .image-item img {
+        width: 100%; /* Make images responsive */
+        height: auto; /* Maintain aspect ratio */
+        object-fit: cover; /* Cover the area without distortion */
+    }
+}
+
