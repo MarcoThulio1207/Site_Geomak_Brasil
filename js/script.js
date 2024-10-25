@@ -5,19 +5,11 @@ let idx = 0;
 let imgWidth = img[0].clientWidth;
 const totalImgs = img.length; 
 
-function updateImageWidth() {
-    imgWidth = img[0].getBoundingClientRect().width;
-    imgs.style.transform = `translateX(${-idx * imgWidth}px)`;
-    
-}
-
-window.addEventListener('resize', updateImageWidth);
-
-
+imgs.innerHTML += imgs.innerHTML;
 
 function carrosel() {
     idx++;
-    imgs.innerHTML += imgs.innerHTML;
+    
     imgs.style.transform = `translateX(${-idx * imgWidth}px)`;
     imgs.style.transition = 'transform 0.5s ease-in-out';
     
@@ -31,6 +23,9 @@ function carrosel() {
 }
 
 
+window.addEventListener('resize', () => {
+    imgWidth = img[0].getBoundingClientRect().width;
+});
 
 setInterval(carrosel, 2000);
 
