@@ -1,4 +1,27 @@
 
 ![geomak_logo](https://github.com/user-attachments/assets/f585bf3a-5d3d-4110-9a21-64c35df0c87a)
-## Um pouco da nossa história ... 
-Após 25 anos de experiência acumulada em Portugal, a Maquesonda abre-se ao mundo com a GEOMAK Brasil. Com base num aprofundado conhecimento das tecnologias e soluções disponíveis mundialmente, asseguramos o fornecimento de um alargado conjunto de equipamentos destinados às indústrias da construção civil e obras públicas. 
+# Geomak Brasil 🚜
+
+## 📌 Descrição
+
+A **Geomak Brasil** é uma empresa inovadora que **constrói o futuro com precisão e inovação** na área de **geotecnia e fundações especiais**.  
+Nosso compromisso é levar toda a tecnologia da **geotecnia**, **geologia**, **construção civil**, **industrial** e **laboral**, oferecendo **soluções inovadoras** que impulsionam a engenharia de solo e fundações com **precisão técnica e sustentabilidade**.
+
+Venha nos conhecer! ✨
+
+## 🚀 Tecnologias Utilizadas
+
+- 🌐 **HTML**: Estrutura básica da página
+- 🎨 **CSS**: Estilização e design visual
+- ⚡ **JavaScript**: Funcionalidades e interações dinâmicas
+
+
+## 🎯 Objetivo  
+Este projeto foi desenvolvido como portifólio, para posteriormente se tornar um site com domínio. Foi feito com muito carinho para empresa em que sou colaborador!
+
+## Link:
+🌐 https://marcothulio1207.github.io/Site_Geomak_Brasil/
+
+---
+
+Gostou do projeto? Fique à vontade para contribuir! 🖖🏻🚀 
